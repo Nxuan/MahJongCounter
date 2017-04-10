@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Mah Jong Counter</string>
+    <string name="limit_800_points_reached">You have reached the limit of 800 points. Congratulations!</string>
+    <string name="to_left">&lt;</string>
+    <string name="player_1">Player 1</string>
+    <string name="to_right">&gt;</string>
+    <string name="total">Total</string>
+    <string name="_0">0</string>
+    <string name="builds">Builds</string>
+    <string name="number">#</string>
+    <string name="pts">Pts</string>
+    <string name="chi">Chi</string>
+    <string name="pong">Pong</string>
+    <string name="minor">Minor</string>
+    <string name="hidden_minor">Hidden Minor</string>
+    <string name="major">Major</string>
+    <string name="hidden_major">Hidden Major</string>
+    <string name="kong">Kong</string>
+    <string name="others">Others</string>
+    <string name="flowers_seasons">Flowers / Seasons</string>
+    <string name="major_pair">Major Pair</string>
+    <string name="winner">Winner</string>
+    <string name="subtotal">Subtotal (rounded)</string>
+    <string name="fa">Fa</string>
+    <string name="reset">Reset</string>
+    <string name="player_2">Player 2</string>
+    <string name="player_3">Player 3</string>
+    <string name="player_4">Player 4</string>
+</resources>
